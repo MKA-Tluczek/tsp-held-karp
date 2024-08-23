@@ -15,9 +15,9 @@ Następnie reszta pliku to `N` wierszy, zawierających `N` liczb każdy. `I`-ta 
 
 Plik wyjściowy zawiera po jednym wierszu na każde uruchomienie algorytmu. Każdy wiersz zawiera następujące informacje, oddzielone przecinkami:
 * Nazwa pliku wejściowego
-* Czas obliczania rozwiązania w sekundach
+* Czas obliczenia rozwiązania w sekundach
 * Długość optymalnej ścieżki
-* Kolejne wierzchołki optymlnej ścieżki (indeksy liczone od zera)
+* Kolejne wierzchołki optymalnej ścieżki (indeksy liczone od zera)
 
 [^1]: Funkcja wielokrotnego obliczania tej samej instancji została zaimplementowana w celu szacowania średniej długości działania algorytmu.
 
